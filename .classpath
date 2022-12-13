@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/rk/Downloads/Uni_courses_2022/Geoinformation Management in Interdisciplinary Research/Exercise/Exercise 02/releases/dependencies/geotools-24.0-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="/Users/rk/Downloads/Uni_courses_2022/Geoinformation Management in Interdisciplinary Research/Exercise/Exercise 02/releases/dependencies/jts-1.17.1-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="/Users/rk/Downloads/Uni_courses_2022/Geoinformation Management in Interdisciplinary Research/Exercise/Exercise 02/releases/dependencies/postgis-2.5.0-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="/Users/rk/Downloads/Uni_courses_2022/Geoinformation Management in Interdisciplinary Research/Exercise/Exercise 02/releases/IGGGIS_v1.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
